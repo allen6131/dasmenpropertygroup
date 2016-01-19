@@ -173,6 +173,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
+    background-color: #1e385c;
 }
 
 .service-item {
@@ -215,10 +216,12 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
+    background-color: #1e385c;
 }
 
 .call-to-action .btn {
     margin: 10px;
+
 }
 
 /* Map */
